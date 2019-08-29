@@ -1,6 +1,6 @@
 - name: copy a file to home directory of ansible node
   become: yes
-  - namae
+  namae
   copy:
     src: new_file.txt
     dest: /home/centos/
