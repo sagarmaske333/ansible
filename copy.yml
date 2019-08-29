@@ -4,5 +4,5 @@
   tasks:
   - name: t1  
     copy:
-      src: new_file.txt
+      src: 
       dest: /home/centos/
