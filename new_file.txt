@@ -1,1 +1,1 @@
-this 
+this file is to be copied on home directory of ansible nodes
