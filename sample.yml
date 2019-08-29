@@ -2,7 +2,7 @@
   become: yes
   hosts: all
   tasks:
-  - name: t1  
+  - name: t1 for  
     copy:
       src: new_file.txt
       dest: /home/centos/
