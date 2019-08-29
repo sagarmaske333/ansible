@@ -2,4 +2,4 @@
   become: yes
   copy:
     src: new_file.txt
-    
+    dest
