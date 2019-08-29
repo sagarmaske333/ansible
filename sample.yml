@@ -1,3 +1,4 @@
 - name: copy a file to home directory of ansible node
+  beco
   copy:
-    src: new_file
+    src: new_file.txt
