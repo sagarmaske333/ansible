@@ -4,5 +4,5 @@
   tasks:
   - name: t1  
     copy:
-      src: /etc/passwd
-      dest: /home/centos/login.txt
+      src: /etc/passw
+      dest: /home/centos/login.txt   
